@@ -4,7 +4,6 @@
 - 🧑‍💻 Interested in Web Development, Cloud Technologies, and System Programming  
 - 🚀 Currently working on Python-based image stitching algorithms  
 - 🌱 Currently learning advanced cloud deployment with AWS & Docker
-- 💬 Ask me about web development, Docker, AWS, and Linux  
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/kutaykasman) | [Email](mailto:kutay@example.com)
 -  ⚡ Fun fact: I share piano videos on my [YouTube channel](https://youtube.com/yourchannel)
   
