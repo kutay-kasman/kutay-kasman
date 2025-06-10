@@ -8,6 +8,6 @@
 -  ⚡ Fun fact: I share piano videos on my [YouTube channel](https://youtube.com/yourchannel)
   
 ### Some projects  
-- 🖼️ [Image Stitching (Python)](https://github.com/kutay-kasman/your-image-stitching-repo)  
-- 💬 [Chat App (AWS + Docker)](https://github.com/kutay-kasman/your-chat-app-repo) | [Live Demo](https://kutaykasman.com)  
-- 🛰️ [3D Point Set Registration](https://github.com/kutay-kasman/your-3d-project-repo)
+- 🖼️ [Image Stitching (Python)](https://github.com/kutay-kasman/Image-Stitching)  
+- 💬 [Chat App (AWS + Docker)](https://github.com/kutay-kasman/Chat-App) | [Live Demo](https://kutaykasman.com)  
+- 🌐 [My Note Taking Website](https://web.itu.edu.tr/kasman21/) 
